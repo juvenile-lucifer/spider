@@ -1,0 +1,13 @@
+{
+  "name": "spiner",
+  "version": "0.0.1",
+  "description": "spiner.",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  	"mysql": "2.11.1",
+  	"jsdom": "9.7.1"
+     }
+}
